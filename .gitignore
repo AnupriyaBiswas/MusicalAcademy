@@ -6,3 +6,7 @@ node_modules/
 
 # Ignore log files
 *.log
+
+.eslintrc.json
+.history/
+.next/
