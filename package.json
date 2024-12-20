@@ -17,12 +17,7 @@
     
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-<<<<<<< HEAD
     "simplex-noise": "^4.0.3",
-=======
-    
-  
->>>>>>> fedf9602a1560d12823325f489178f9f36c91589
     "tailwind-merge": "^2.5.4"
   },
   "devDependencies": {
