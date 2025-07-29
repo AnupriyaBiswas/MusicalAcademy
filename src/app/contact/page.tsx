@@ -1,7 +1,8 @@
 'use client';
 
 import React, { FormEvent, useState, useEffect } from 'react';
-import { Meteors } from '@/components/ui/meteors';
+
+import { Meteors } from '@/components/ui/Meteors';
 
 function MusicSchoolContactUs() {
   const [email, setEmail] = useState('');
